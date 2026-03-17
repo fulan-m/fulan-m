@@ -1,4 +1,4 @@
-![background](https://github.com/fulan-m/fulan-m/blob/main/assets/WhatsApp%20Image%202026-03-16%20at%2022.03.57%20(1).jpeg)
+![late_afternoon_bg](https://github.com/fulan-m/fulan-m/blob/main/assets/late_afternoon.jpeg)
 
 <div align='justify'>
 
