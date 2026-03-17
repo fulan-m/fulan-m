@@ -1,7 +1,10 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hello+there+.+.+.)](https://git.io/typing-svg)
 
-## ⚡ About me
 <div align='justify'>
+
+## ⚡ About me
 
 I am an undergraduate student in Environmental Management and Analysis at the [Federal University of São Carlos (UFSCar)](https://www.ufscar.br/) with a strong focus on geotechnologies, geoprocessing, and climatology. My work specifically aims to analyze the environment and the impacts of anthropic activities.
 
