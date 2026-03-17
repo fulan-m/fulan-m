@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hello+there+.+.+.)](https://git.io/typing-svg)
+![background](https://github.com/fulan-m/fulan-m/blob/main/assets/WhatsApp%20Image%202026-03-16%20at%2022.03.57%20(1).jpeg)
 
 <div align='justify'>
 
