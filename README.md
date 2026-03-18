@@ -67,6 +67,9 @@ During my undergraduate studies, I have been awarded two FAPESP research grants 
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
   <a href="https://lattes.cnpq.br/1410510309493620" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=curriculum&logoColor=white" alt="Currículo Lattes">
+    <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Currículo Lattes">
+  </a>
+  <a href="https://fulan-m.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/My_site-fa3737?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="My site">
   </a>
 </div>
