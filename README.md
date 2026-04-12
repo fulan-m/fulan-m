@@ -8,13 +8,22 @@
 
 <div align='justify'>
 
-## ⚡ About me
+## 📸 About me
 
 I am an undergraduate student in Environmental Management and Analysis at the [Federal University of São Carlos (UFSCar)](https://www.ufscar.br/) with a strong focus on geotechnologies, geoprocessing, and climatology. My work specifically aims to analyze the environment and the impacts of anthropic activities.
 
-During my undergraduate studies, I have been awarded two FAPESP research grants focused on climate change:
-* **Project 1:** "Land Use/Land Change and its impacts on São Paulo state precipitation."
-* **Project 2 (Current):** "Fire Occurrences in the Cerrado Biome: an Integrated Analysis of Remote Sensing Products in São Paulo State, Brazil."
+---
+
+</div>
+
+## 📝 Main projects
+
+<div align='center'>
+
+| Project name                                        | Description                                                                                            |
+| :---                                                | :---                                                                                                   |
+| [AraPresSao](https://github.com/fulan-m/AraPresSao) | Analyzes the impacts of land use / land cover on precipitation patterns on the west of São Paulo state |
+| [FIAT-FIRMS](https://github.com/fulan-m/FIAT-FIRMS) | Analyzes patterns on wildfire occurences over the Cerrado biome of São Paulo state                     |
 
 </div>
 
